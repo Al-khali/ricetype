@@ -1,0 +1,145 @@
+func
+main
+package
+import
+return
+defer
+panic
+recover
+go
+chan
+select
+struct
+interface
+type
+map
+slice
+make
+new
+len
+cap
+append
+copy
+delete
+close
+complex
+real
+imag
+print
+println
+error
+string
+int
+int64
+uint64
+float64
+bool
+byte
+rune
+uintptr
+const
+var
+if
+else
+for
+range
+switch
+case
+default
+break
+continue
+goto
+fallthrough
+context.Background()
+context.WithCancel(ctx)
+context.WithTimeout(ctx, 5*time.Second)
+sync.Mutex
+sync.RWMutex
+sync.WaitGroup
+atomic.Int64
+err != nil
+fmt.Errorf("failed: %w", err)
+io.Reader
+io.Writer
+io.ReadAll(r)
+json.Marshal(v)
+json.Unmarshal(data, &out)
+http.ListenAndServe(":8080", mux)
+http.StatusOK
+http.Request
+http.ResponseWriter
+time.Now()
+time.Since(start)
+time.Duration
+strings.Builder
+strings.Split(s, " ")
+bytes.Buffer
+os.Open(path)
+os.ReadFile(name)
+os.WriteFile(name, data, 0644)
+filepath.Join(dir, file)
+sort.Slice(items, func(i, j int) bool)
+math.Max(a, b)
+math.Sqrt(x)
+tea.Model
+tea.Cmd
+tea.Msg
+tea.KeyMsg
+tea.WindowSizeMsg
+lipgloss.NewStyle()
+lipgloss.JoinHorizontal
+lipgloss.JoinVertical
+lipgloss.Place
+fn
+let
+mut
+pub
+impl
+trait
+enum
+match
+Option<T>
+Result<T, E>
+Some(val)
+None
+Ok(res)
+Err(e)
+Vec::new()
+String::from("hello")
+Arc<Mutex<T>>
+tokio::spawn
+async
+await
+#[derive(Debug, Clone)]
+unwrap_or_else
+iter().map(|x| x * 2).collect()
+const
+function
+export
+default
+interface
+type
+Promise<void>
+async
+await
+Array.from(items)
+Object.keys(record)
+Map<string, number>
+Set<string>
+ReadonlyArray<T>
+Partial<Config>
+Record<string, unknown>
+console.log(result)
+JSON.stringify(data)
+fetch(url).then(r => r.json())
+git status
+git checkout -b feat/tui
+git commit -m "perf: batch ansi rendering"
+git rebase -i HEAD~3
+docker build -t app:latest .
+kubectl get pods -n production
+grep -rn "pattern" ./internal
+chmod +x scripts/deploy.sh
+curl -sL https://api.example.com/v1
+go test -v -race ./...
+go build -ldflags="-s -w" .

@@ -1,0 +1,9 @@
+# Binaries
+ricetype
+monkeytype
+*.exe
+*.out
+
+# OS & Editor files
+.DS_Store
+.cursor/

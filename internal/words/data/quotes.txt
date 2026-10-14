@@ -1,0 +1,28 @@
+Simplicity is prerequisite for reliability. - Edsger W. Dijkstra
+Make it work, make it right, make it fast. - Kent Beck
+Programs must be written for people to read, and only incidentally for machines to execute. - Harold Abelson
+Premature optimization is the root of all evil. - Donald Knuth
+Talk is cheap. Show me the code. - Linus Torvalds
+Controlling complexity is the essence of computer programming. - Brian Kernighan
+First, solve the problem. Then, write the code. - John Johnson
+Clear is better than clever. - Rob Pike
+Don't communicate by sharing memory, share memory by communicating. - Rob Pike
+Concurrency is not parallelism. - Rob Pike
+A little copying is better than a little dependency. - Rob Pike
+The most disastrous thing that you can ever learn is your first programming language. - Alan Kay
+The best way to predict the future is to invent it. - Alan Kay
+Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away. - Antoine de Saint-Exupery
+Ce qui se concoit bien s'enonce clairement, et les mots pour le dire arrivent aisement. - Nicolas Boileau
+La simplicite est la sophistication supreme. - Leonard de Vinci
+Le code est comme l'humour. Quand il faut l'expliquer, c'est qu'il est mauvais. - Cory House
+Mesurer la progression d'un developpement logiciel au nombre de lignes de code revient a mesurer la construction d'un avion a son poids. - Bill Gates
+Les bons programmeurs savent quoi ecrire. Les grands programmeurs savent quoi reecrire et reutiliser. - Eric S. Raymond
+La patience est amere, mais son fruit est doux. - Jean-Jacques Rousseau
+Rien ne se perd, rien ne se cree, tout se transforme. - Antoine Lavoisier
+L'imagination est plus importante que le savoir. - Albert Einstein
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+Debugging is twice as hard as writing the code in the first place. - Brian Kernighan
+There are only two hard things in Computer Science: cache invalidation and naming things. - Phil Karlton
+The function of good software is to make the complex appear to be simple. - Grady Booch
+Code never lies, comments sometimes do. - Ron Jeffries
+Simplicity carried to an extreme becomes elegance. - Jon Franklin
